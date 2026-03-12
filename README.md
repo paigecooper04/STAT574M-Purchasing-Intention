@@ -1,2 +1,5 @@
 # STAT574M-Purchasing-Intention
 Project exploring predicting ecommerce shoppers purchasing intention.
+
+Ecommerce has increased greatly in popularity in the past few years. With many people switching to online for their methods of shopping, online businesses are needing new ways of reaching customers. Many websites now give personalized recommendations and advertisements to their customers to play the role of salesperson that is typically seen in a physical shopping setting. 
+	Many online retailers now invest in early detection and behavioral prediction systems to characterize their customers to know when to intervene with additional advertisement. For example, if a user is predicted to be someone who will not purchase a product, they might be someone the business would want to send additional advertisements and recommendations to try to get them to purchase. In this project, we will explore the question; Given standard Google Analytics metrics from an online shopping session, how can we predict if a user will make a purchase?
